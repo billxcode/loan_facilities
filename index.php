@@ -18,7 +18,7 @@
     <div class="form_login">
         <div class="menu-head front_form">Login Form</div>
     <form method="POST" action="control/login.php">
-   <div> <input type="text" class="text" name="username" placeholder="username"/></div>
+    <div> <input type="text" class="text" name="username" placeholder="username"/></div>
     <div><input type="password" class="text" name="password" placeholder="password"/></div>
         <div><select name="level">
             <option value="#">--pilih--</option>
